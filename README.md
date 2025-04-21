@@ -1,7 +1,8 @@
 # Satelite-Image-Classification
 
-
+- Download Zip
+- Lakukan hal berikut : 
 ```
-git clone https://github.com/habibarrsyd/Satelite-Image-Classification.git
 pip install -r requirements.txt
 ```
+- Jalankan notebook
